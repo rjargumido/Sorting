@@ -21,7 +21,7 @@ Following is a sample benchmark of ***BucketSort*** and ***InsertionSort*** usin
 | ------------- | ------------- |
 | Value range | -128 to 127 |
 | Total number of values | 3,913,539 |
-| Number of iterations made |	50 |
+| Number of iterations made (per run) |	50 |
 | Average runtime duration per run | in nanoseconds|
 | Number of runs | 20 |
 
