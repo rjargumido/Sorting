@@ -5,12 +5,12 @@ The main method is present at **[SortingBenchmarker.java](https://github.com/rja
 
 This benchmarking program has the following Java sorting programs:
 
-1. *BinarySort*
-2. *BucketSort*
-3. *HeapSort*
-4. *InsertionSort*
-5. *MergeSort*
-6. *QuickSort*
-7. *SelectionSort*
-8. *ShellSort*
+1. *[BinarySort](https://github.com/rjargumido/SortingBenchmark/blob/master/src/BinarySort.java)*
+2. *[BucketSort](https://github.com/rjargumido/SortingBenchmark/blob/master/src/BucketSort.java)*
+3. *[HeapSort](https://github.com/rjargumido/SortingBenchmark/blob/master/src/HeapSort.java)*
+4. *[InsertionSort](https://github.com/rjargumido/SortingBenchmark/blob/master/src/InsertionSort.java)*
+5. *[MergeSort](https://github.com/rjargumido/SortingBenchmark/blob/master/src/MergeSort.java)*
+6. *[QuickSort](https://github.com/rjargumido/SortingBenchmark/blob/master/src/QuickSort.java)*
+7. *[SelectionSort](https://github.com/rjargumido/SortingBenchmark/blob/master/src/SelectionSort.java)*
+8. *[ShellSort](https://github.com/rjargumido/SortingBenchmark/blob/master/src/ShellSort.java)*
 
